@@ -14,6 +14,6 @@ public class Application {
         System.out.println(firstBox.getContent().toString());
         System.out.println(secondBox.getContent().toString());
     }
-    //можно иметь одну и туже книгу в разных коробках
+    //можно иметь одну и ту же книгу в разных коробках
     //нет , не изменится
 }
